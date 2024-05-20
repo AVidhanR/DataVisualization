@@ -54,7 +54,7 @@ def plot_data(df, chart_type, x_axis, y_axis):
 # Streamlit app
 def main():
     st.title("Interactive Data Dashboard")
-    st.subheader("Upload the dataset and see the relations between the attributes in different ways!")
+    st.write("Upload the dataset and see the relations between the attributes in different ways!")
 
     st.sidebar.title("Options")
     uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
