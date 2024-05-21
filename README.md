@@ -5,3 +5,4 @@
 ----
 - Fork this `repo` and experiment it!
 - Project by [`A Vidhan Reddy`](https://linkedin.com/in/AVidhanR)
+- Liked it? #Star it
