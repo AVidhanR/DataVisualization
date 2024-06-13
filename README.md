@@ -6,6 +6,6 @@
 - Fork this `repo` and experiment it!
 - Project by [`A Vidhan Reddy`](https://linkedin.com/in/AVidhanR)
 - Liked it? `Star` it
-<br />
-![DataVisualization](https://github.com/AVidhanR/DataVisualization/assets/116101537/4e0ced96-6619-4598-a945-95a3dffbd207)
+
+<!-- ![DataVisualization](https://github.com/AVidhanR/DataVisualization/assets/116101537/4e0ced96-6619-4598-a945-95a3dffbd207) -->
 
